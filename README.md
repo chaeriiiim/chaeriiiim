@@ -1,7 +1,4 @@
 # Hi there 👋
-
-## 프론트엔드
-
 <div><h1>📚 STACKS</h1></div>
 <div>
   <div>
