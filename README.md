@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5abe8,100:c564e8&height=180&text=Chaerim%20GitHub&animation=blinking&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 자기소개~~~ </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  
         안녕하세요! 사용자 경험을 최우선으로 생각하는 프론트엔드 개발 공부중인 김채림입니다!
         웹 기술의 빠른 변화 속에서 최신 트렌드를 반영하고, 최적의 사용자 경험을 제공 하는 것을 목         표로 하고 있습니다. html,css,JavaScript에 대한 깊은 이해를 바탕으로 디자인과 접근성을 고려한 UI/UX 개발에 집중하고 있으며 안정적인 웹사이트를 구축하는데 관심이 많습니다. 저는 새로운 기술을 합습하고 이를 실무에 적용하는 것을 좋아하며, 사용자 중심의 직관적인 인터페이스를 설계하는 것에 대한 열정을 가지고 있습니다. 변화하는 웹 환경 속에서 끊임없이 성장하는 프론트엔드 개발자로서 기여하고 싶습니다!
